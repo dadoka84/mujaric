@@ -1,0 +1,122 @@
+@charset "utf-8";
+/* CSS Document */
+body {
+	background-image: url(images/adv_14.jpg);
+	background-color:#E0E0E0;
+	background-repeat: repeat-x;
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	font-family: Verdana, Geneva, sans-serif;
+		font-size:11px;
+}
+a:link {
+	color: #2A79A2;
+	text-decoration: none;
+}
+a:visited {
+	color: #2A79A2;
+	text-decoration: none;
+}
+a:hover {
+	color: #4E4E4E;
+	text-decoration: underline;
+}
+a:active {
+	color: #2A79A2;
+	text-decoration: none;
+	text-align: right;
+}
+.h1
+{
+font-size:18px;
+color:#2979a2;
+font-weight:bold;	}
+.veliki {
+	font-size: 14px;
+}
+
+.bgheader
+{
+	background-image:url(images/adv_02bg.jpg);
+	background-repeat:repeat-x;
+	height: 185px;
+	text-align: left;
+	
+	}
+
+.bgispod
+{
+		background-image:url(images/adv_18.jpg);
+	background-repeat:repeat-x;
+	height: 160px;
+	
+	
+	}
+	
+	.malisivitext
+	{
+		font-family: Verdana, Geneva, sans-serif;
+		font-size:9px;
+		color:#999;}
+		
+		.footer
+		{
+			background-image:url(images/adv_35.jpg);
+	background-repeat:repeat-x;
+	height: 49px; width: 939px;}
+	
+	.headermali
+	{background-image:url(images/adv_02.jpg);
+	background-repeat:repeat-x;
+	height: 24px; width: 939px;}
+	
+	.headerlink
+	{
+		font-family: Verdana, Geneva, sans-serif;
+		font-size:9px;
+		color:#999;
+		padding-right: 5px;
+		}
+		
+		.headerlink a:link
+	{
+	
+		color:#999;
+				
+		}
+	.headerlink a:hover
+	{
+	
+		color:#81D8F3;
+		text-decoration: none;
+				
+		}
+		.linijagore
+		{
+			border-top:solid #ededed 2px;}
+			
+.meni{
+	
+	}
+
+.meni2{
+	float:left; 
+display: inline; 
+height 20px;
+background-color: #494949;
+padding: 6px;
+margin-right: 3px;
+font-size: 13px;
+position: relative;
+left: 680px;
+-moz-border-radius: 2px;
+border-radius: 2px;
+}
+
+.headerispod
+{
+	height: 20px;
+	}
+
